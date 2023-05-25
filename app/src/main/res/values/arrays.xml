@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words" >
+        <item>Antony</item>
+        <item>Adriano Imperador</item>
+        <item>Alexander Arnold</item>
+        <item>Bernardo Silva</item>
+        <item>Beckham</item>
+        <item>Bruno Guimarães</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Calleri</item>
+        <item>Cafu</item>
+        <item>Danilo Silva</item>
+        <item>David Luis</item>
+        <item>Di Maria</item>
+        <item>Dembélé</item>
+        <item>Eriksen</item>
+        <item>Everton Cebolinha</item>
+        <item>Fagner</item>
+        <item>Fábio Santos</item>
+        <item>Felipe Melo</item>
+        <item>Gulite</item>
+        <item>Griezmann</item>
+        <item>Hazard</item>
+        <item>Herrera</item>
+        <item>Isco</item>
+        <item>Iniesta</item>
+        <item>Ibrahimovic</item>
+        <item>Jota</item>
+        <item>João Felix</item>
+        <item>Jairzinho</item>
+        <item>Kevin De Bruyne</item>
+        <item>Kante</item>
+        <item>Kroos</item>
+        <item>Luiz Soarez</item>
+        <item>Lukaku</item>
+        <item>Lewandovski</item>
+        <item>Marcos Leonardo</item>
+        <item>Messi</item>
+        <item>Mbape</item>
+        <item>Maradona</item>
+        <item>Neymar</item>
+        <item>Neuer</item>
+        <item>Oscar</item>
+        <item>Ozil</item>
+        <item>Oblack</item>
+        <item>Philipe Coutinho</item>
+        <item>Pedro</item>
+        <item>Pelé</item>
+        <item>Quaresma</item>
+        <item>Rafael Ramos</item>
+        <item>Renato Augusto</item>
+        <item>Róger Guedes</item>
+        <item>Sancho</item>
+        <item>Sterling</item>
+        <item>Thiago Silva</item>
+        <item>Torres</item>
+        <item>Toure</item>
+        <item>Umiti</item>
+        <item>Vidal</item>
+        <item>Varane</item>
+        <item>Verratti</item>
+        <item>Willian</item>
+        <item>Weverton</item>
+        <item>Xhaka</item>
+        <item>Xavi</item>
+        <item>Young</item>
+        <item>Zidane</item>
+    </string-array>
+</resources>
